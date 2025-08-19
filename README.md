@@ -155,7 +155,7 @@ Example Expected Output (JSON):
 Now review the following Java code:
 
 ```java
-public int subtract(int a, int b) {
+public int Subtract(int a, int b) {
     return a + b; // intended to be subtraction
 }
 ```
